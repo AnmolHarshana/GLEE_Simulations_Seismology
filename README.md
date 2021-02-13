@@ -1,5 +1,5 @@
 # GLEE_Simulations_Seismology
-This repository contains simulations for the seismology payload of GLEE.
+This repository contains simulations for the seismology payload of GLEE system of IITBSSP. The software used here is devito.
 
 The simple simulation uses the inbuilt method model directly to get a quick understanding.This is an acoustic model however, our final aim is for an elastic model.
 
