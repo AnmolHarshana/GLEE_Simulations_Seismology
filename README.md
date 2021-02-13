@@ -10,3 +10,5 @@ The elastic models have been constructed using three different ways:
 1. Using the model object of devito and setting parameters required.
 2. Using subdomains
 3. Using the demo_model of devito and modifying the parameters according to our requirements
+
+The 2D models have been extrapolated to 3D.
