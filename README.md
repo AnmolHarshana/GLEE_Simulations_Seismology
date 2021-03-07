@@ -12,3 +12,5 @@ The elastic models have been constructed using three different ways:
 3. Using the demo_model of devito and modifying the parameters according to our requirements
 
 The 2D models have been extrapolated to 3D.
+
+The 3D models with vertical force have  also been created using subdomains for manual implementation of boundary conditions.
